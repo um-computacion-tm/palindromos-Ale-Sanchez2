@@ -1,1 +1,1 @@
-# Palindrome.py by Ale-Sanchez2
+# Palindrome.py by Alejandro Sebastián Sánchez Castellino 
